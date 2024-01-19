@@ -75,7 +75,7 @@
     <Sequence.Variables>
       <Variable x:TypeArguments="scg:List(x:String)" Name="Countries">
         <Variable.Default>
-          <VisualBasicValue x:TypeArguments="scg:List(x:String)" ExpressionText="New List(Of String) from {&quot;Germany&quot;, &quot;Spain&quot;, &quot;Japan&quot;, &quot;Brazil&quot;, &quot;India&quot;, &quot;China&quot;}" />
+          <VisualBasicValue x:TypeArguments="scg:List(x:String)" ExpressionText="New List(Of String) from {&quot;Afghanistan&quot;,&quot;Pakistan&quot;, &quot;Spain&quot;, &quot;Japan&quot;, &quot;Brazil&quot;, &quot;India&quot;, &quot;China&quot;}" />
         </Variable.Default>
       </Variable>
       <Variable x:TypeArguments="x:Object" Name="_out_InvokeMethod_1__Result" />
